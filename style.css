@@ -1,0 +1,74 @@
+@font-face {
+    font-family: Poppins-black;
+    src: local(Poppins-Black);
+  }
+@font-face {
+    font-family: Poppins-thin;
+    src: local(Poppins-Thin);
+  }
+
+@font-face {
+    font-family: Poppins-MI;
+    src: local(Poppins-MediumItalic);
+  }
+
+h1{
+
+    font-size: 30px;
+    
+    text-align: left;
+    
+    color: #588c7e;
+    
+    font-family: Poppins-black;
+    }
+    
+    
+    p{
+    
+    font-size: 20px;
+    
+    text-align: left;
+    
+    font-family: Poppins-thin;
+    
+    }
+h1{
+
+    font-size: 30px;
+    
+    text-align: left;
+    
+    color: #f6faf9;
+    
+    font-family: Poppins-black;
+
+    background-color: #4a917e;}
+    
+    
+    p{
+    
+    font-size: 20px;
+    
+    text-align: left;
+    
+    font-family: Poppins-thin;
+    
+    } 
+    
+    h2{
+
+        font-size: 30px;
+        
+        text-align: left;
+        
+        color: #4a917e;
+        
+        font-family: Poppins-MI;
+        }
+    
+    body {
+    
+    background-color: #f3f2f2;
+    
+    }
